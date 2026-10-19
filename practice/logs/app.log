@@ -1,0 +1,7 @@
+INFO: Application started
+INFO: Database connected
+WARNING: High memory usage
+ERROR: Database connection failed
+INFO: Application restarted
+ERROR: Request timed out
+INFO: Monitoring enabled
