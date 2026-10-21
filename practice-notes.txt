@@ -1,0 +1,3 @@
+Linux is an operating system.
+Git tracks changes in files.
+GitHub hosts Git repositories.
