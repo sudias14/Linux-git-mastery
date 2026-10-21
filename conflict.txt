@@ -1,1 +1,1 @@
-I am learning Linux and Git.
+I am learning Linux, Git, and Git branches.
